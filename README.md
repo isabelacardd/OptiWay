@@ -31,6 +31,7 @@ Este projeto tem como propósito avaliar a produtividade dos veículos, otimizar
 
 # Objetivo do Projeto
 
+x
 
 # Tecnologias Utilizadas
 ## Tecnologias Específicas/Apoio
@@ -63,24 +64,24 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 3| 16/05/2025| A fazer |[Ver Relatório]() | 
 |Feira de Soluções| 29/05/2025| A fazer | [Ver Relatório]() |
 
-# Protótipos
-
 
 # Backlog do Produto
 
+x
+
 # Backlog das Sprints
 ## Sprint 1
-- [ ] Estruturar Git Hub
-- [ ] Estruturar Jira Software
-- [ ] Estruturar Relatório 1
-- [ ] Estruturar Backlog do Produto
-- [ ] Estruturar Backlog das Sprints
-- [ ] Workshop em Pyhton
-- [ ] Tratar base de dados em CSV
-- [ ] Junção das bases em SQL
-- [ ] Unir planilhas em Python
-- [ ] Análise do problema em PO
-- [ ] Dashboard em BI; Produtividade Veículos
+- [ ] Estruturar Git Hub;
+- [ ] Estruturar Jira Software;
+- [ ] Estruturar Relatório 1;
+- [ ] Estruturar Backlog do Produto;
+- [ ] Estruturar Backlog das Sprints;
+- [ ] Workshop em Pyhton;
+- [ ] Tratar base de dados em CSV;
+- [ ] Junção das bases em SQL;
+- [ ] Unir planilhas em Python;
+- [ ] Análise do problema em PO;
+- [ ] Dashboard em BI; Produtividade Veículos;
 
 ## Sprint 2
 - [ ] Atualizar Git Hub;
@@ -105,6 +106,5 @@ Sprint | Previsão | Status| Histórico|
 
 # Burndown
 
-
-
+x
 
