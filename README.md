@@ -12,13 +12,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Sprints e Protótipos](#sprints)
-* [Requisitos](#requisitos)
 * [Backlog do Produto](#backlog-do-produto)
 * [Backlog das Sprints](#backlog-das-sprints)
 * [Burndown](#burndown)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
-
-
 # Projeto
 Este projeto tem como objetivo..
 
@@ -68,21 +64,6 @@ Sprint | Previsão | Status| Histórico|
 
 # Protótipos
 
-# Requisitos
-
-* Requisitos Funcionais
-  >x
-  >
-  >y
-  >
-  >z
-
-* Requisitos Não Funcionais
-  >x
-  >
-  >y
-  >
-  >z
 
 # Backlog do Produto
 
@@ -90,36 +71,6 @@ Sprint | Previsão | Status| Histórico|
 
 # Burndown
 
-# Competências Desenvolvidas
-
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Product Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-
-</details>
 
 
 
