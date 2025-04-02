@@ -31,7 +31,7 @@ Este projeto tem como propósito avaliar a produtividade dos veículos, otimizar
 
 # Objetivo do Projeto
 
-x
+O objetivo do projeto encontra-se na otimização de rotas de uma empresa embarcadora de carga, afim de reduzir custos logísticos de distribuição.
 
 # Tecnologias Utilizadas
 ## Tecnologias Específicas/Apoio
@@ -71,17 +71,16 @@ x
 
 # Backlog das Sprints
 ## Sprint 1
-- [ ] Estruturar Git Hub;
-- [ ] Estruturar Jira Software;
+- [x] Estruturar Git Hub;
+- [x] Estruturar Jira Software;
 - [ ] Estruturar Relatório 1;
-- [ ] Estruturar Backlog do Produto;
-- [ ] Estruturar Backlog das Sprints;
-- [ ] Workshop em Pyhton;
-- [ ] Tratar base de dados em CSV;
-- [ ] Junção das bases em SQL;
-- [ ] Unir planilhas em Python;
-- [ ] Análise do problema em PO;
-- [ ] Dashboard em BI; Produtividade Veículos;
+- [x] Estruturar Backlog do Produto;
+- [x] Estruturar Backlog das Sprints;
+- [x] Tratar base de dados em CSV;
+- [x] Junção das bases em SQL;
+- [x] Unir planilhas em Python;
+- [x] Análise do problema em PO;
+- [x] Dashboard em BI; Produtividade Veículos;
 
 ## Sprint 2
 - [ ] Atualizar Git Hub;
