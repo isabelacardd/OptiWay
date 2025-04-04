@@ -73,7 +73,7 @@ x
 ## Sprint 1
 - [x] Estruturar Git Hub;
 - [x] Estruturar Jira Software;
-- [ ] Estruturar Relatório 1;
+- [X] Estruturar Relatório 1;
 - [x] Estruturar Backlog do Produto;
 - [x] Estruturar Backlog das Sprints;
 - [x] Tratar base de dados em CSV;
