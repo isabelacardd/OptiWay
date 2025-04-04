@@ -105,5 +105,8 @@ x
 
 # Burndown
 
-x
+### 1° SPRINT
+![image](https://github.com/user-attachments/assets/5393e122-75c4-4c7e-aa89-3bb5c68b21d8)
+
+
 
