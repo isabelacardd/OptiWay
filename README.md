@@ -67,7 +67,21 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog do Produto
 
-x
+| RANK | PRIORIDADE | USER STORIE | SPRINT | TEMPO  |
+|------|------------|-------------|--------|--------|
+| 1    | Média      | **Como analista de dados, quero iniciar uma análise inicial de dados para organizá-los.** | 1 | 48hrs  |
+| 2    | Alta       | **Como analista de transportes, quero realizar uma taxa média de ocupação de veículos ao longo do tempo para fazer uma comparação mensal.** | 1 | 72hrs  |
+| 3    | Alta       | **Como analista de custos, quero fazer uma análise de produtividade mensal entre os veículos para filtrar os mais produtivos.** | 1 | 72hrs  |
+| 4    | Alta       | **Como analista de dados, quero aplicar na minha base as restrições (PO) para iniciar a construção de dados reais.** | 2 | 96hrs  |
+| 5    | Alta       | **Como analista de custos, quero investigar quais pares de rotas possuem custo por unidade transportado mais elevado para identificar rotas de alto custo.** | 2 | 72hrs  |
+| 6    | Alta       | **Como analista de custos, quero identificar se o custo ao longo do ano foi o menor possível para saber se o custo está mais elevado que o cenário otimizado.** | 2 | 120hrs |
+| 7    | Alta       | **Como analista de dados, quero realizar um dashboard no Power BI identificando os custos de km/rota para comparar os valores.** | 2 | 24hrs  |
+| 8    | Alta       | **Como controlador de produção, quero saber como está a distribuição do lead time em função dos pares das rotas, para identificar possíveis erros no processo.** | 3 | 72hrs  |
+| 9    | Alta       | **Como analista de vendas, quero identificar quais são os nossos principais clientes para identificar o nível da demanda.** | 3 | 72hrs  |
+|10    | Alta       | **Como analista de melhoria contínua, quero comparar o cenário ótimo com o real para otimizar o processo.** | 3 | 24hrs  |
+|11    | Média      | **Como analista de melhoria contínua, quero analisar as possibilidades de melhorias que são encontradas e a empresa não pratica para identificar melhorias de processos.** | 3 | 96hrs  |
+|12    | Alta       | **Como analista de dados, quero finalizar o banco de dados relacional para apresentar um dashboard final com visualização de uma maximização de produtividade e lucro.** | 3 | 48hrs  |
+
 
 # Backlog das Sprints
 ## Sprint 1
