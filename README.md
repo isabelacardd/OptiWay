@@ -59,7 +59,7 @@ O objetivo do projeto encontra-se na otimização de rotas de uma empresa embarc
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Sprint 1 | 04/04/2025| A fazer | [Ver Relatório]() |
+|Sprint 1 | 04/04/2025| A fazer | [Ver Relatório](https://github.com/isabelacardd/OptiWay/blob/main/Relat%C3%B3rio_Sprint1%5B1%5D.docx) |
 |Sprint 2| 25/04/2025| A fazer |[Ver Relatório]() |
 |Sprint 3| 16/05/2025| A fazer |[Ver Relatório]() | 
 |Feira de Soluções| 29/05/2025| A fazer | [Ver Relatório]() |
