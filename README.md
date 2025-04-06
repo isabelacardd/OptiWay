@@ -119,7 +119,7 @@ Sprint | Previsão | Status| Histórico|
 # Burndown
 
 ### 1° SPRINT
-![image](https://github.com/user-attachments/assets/5393e122-75c4-4c7e-aa89-3bb5c68b21d8)
+![image](https://github.com/user-attachments/assets/c5a8bae9-6c76-4190-a780-0118ca8ad8cf)
 
 
 
