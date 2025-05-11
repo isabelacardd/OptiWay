@@ -121,5 +121,8 @@ Sprint | Previsão | Status| Histórico|
 ### 1° SPRINT
 ![image](https://github.com/user-attachments/assets/c5a8bae9-6c76-4190-a780-0118ca8ad8cf)
 
+### 2° SPRINT
+![image](https://github.com/user-attachments/assets/4c81e1fa-70ab-4303-949c-eb8cd99ea339)
+
 
 
