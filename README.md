@@ -96,13 +96,13 @@ Sprint | Previsão | Status| Histórico|
 - [x] Dashboard em BI; Produtividade Veículos;
 
 ## Sprint 2
-- [ ] Atualizar Git Hub;
-- [ ] Atualizar Jira Software;
-- [ ] Estruturar Relatório 2;
-- [ ] Aplicar restrições em PO;
-- [ ] Realizar análise de comparação de custos mensais e anuais;
-- [ ] Organizar banco de dados;
-- [ ] Dashboard em BI; Comparação de custos km/rota;
+- [x] Atualizar Git Hub;
+- [x] Atualizar Jira Software;
+- [x] Estruturar Relatório 2;
+- [x] Aplicar restrições em PO;
+- [x] Realizar análise de comparação de custos mensais e anuais;
+- [x] Organizar banco de dados;
+- [x] Dashboard em BI; Comparação de custos km/rota;
       
 
 ## Sprint 3
