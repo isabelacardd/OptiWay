@@ -110,11 +110,11 @@ Sprint | Previsão | Status| Histórico|
 - [x] Atualizar Jira Software;
 - [x] Estruturar Relatório 3;
 - [x] Identificar erros no processo;
-- [ ] Comparar cenário ÓTIMO X REAL;
-- [ ] Disponibilizar possibilidades de melhoria de produtividade;
-- [ ] Realizar ajustes finais no dashboard;
-- [ ] Realizar apresentação Feira de Soluções;
-- [ ] Dashboard em BI; Comparação de custos e ganho de produtividade; 
+- [x] Comparar cenário ÓTIMO X REAL;
+- [x] Disponibilizar possibilidades de melhoria de produtividade;
+- [x] Realizar ajustes finais no dashboard;
+- [x] Realizar apresentação Feira de Soluções;
+- [x] Dashboard em BI; Comparação de custos e ganho de produtividade; 
 
 # Burndown
 
