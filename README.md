@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Sprints e Protótipos](#sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Backlog das Sprints](#backlog-das-sprints)
-* [Burndown](#burndown)
+  
 # Projeto
 Este projeto tem como propósito avaliar a produtividade dos veículos, otimizar a distribuição e reduzir os custos das rotas de uma empresa embarcadora de cargas.
 
@@ -58,9 +58,9 @@ O objetivo do projeto encontra-se na otimização de rotas de uma empresa embarc
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Sprint 1 | 04/04/2025| A fazer | [Ver Relatório]() |
-|Sprint 2| 25/04/2025| A fazer |[Ver Relatório]() |
-|Sprint 3| 16/05/2025| A fazer |[Ver Relatório]() | 
+|Sprint 1 | 04/04/2025| Concluída | [Ver Relatório]() |
+|Sprint 2| 25/04/2025| Concluída |[Ver Relatório]() |
+|Sprint 3| 16/05/2025|Concluída |[Ver Relatório]() | 
 |Feira de Soluções| 29/05/2025| A fazer | [Ver Relatório]() |
 
 
