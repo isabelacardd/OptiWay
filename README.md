@@ -67,6 +67,14 @@ Sprint | Previsão | Status| Histórico|
 
 ### Base de dados
 
+![Imagem 1](https://github.com/user-attachments/assets/95296370-ca5a-4640-8ecd-fa29c34dd9b7)
+
+### Dashbaords
+
+![Imagem 2](https://github.com/user-attachments/assets/65ffa6ec-a54d-4599-95e3-f9bbba369df2)
+![Imagem 3](https://github.com/user-attachments/assets/6832b1ee-d49a-47ad-9a4b-a6fcccaccfb0)
+
+
 
 # Backlog do Produto
 
