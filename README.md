@@ -72,6 +72,8 @@ Sprint | Previsão | Status| Histórico|
 ### Dashbaords
 
 ![Imagem 2](https://github.com/user-attachments/assets/65ffa6ec-a54d-4599-95e3-f9bbba369df2)
+
+
 ![Imagem 3](https://github.com/user-attachments/assets/6832b1ee-d49a-47ad-9a4b-a6fcccaccfb0)
 
 ### Resultado da otmização
