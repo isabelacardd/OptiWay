@@ -59,7 +59,7 @@ O objetivo do projeto encontra-se na otimização de rotas de uma empresa embarc
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Sprint 1 | 04/04/2025| Concluída | [Ver Relatório]() |
-|Sprint 2| 25/04/2025| Concluída |[Ver Relatório]() |
+|Sprint 2| 09/05/2025| Concluída |[Ver Relatório]() |
 |Sprint 3| 30/05/2025|Concluída |[Ver Relatório]() | 
 |Feira de Soluções| 29/05/2025| A fazer | [Ver Relatório]() |
 
