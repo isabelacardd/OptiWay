@@ -23,10 +23,9 @@ Este projeto tem como propósito avaliar a produtividade dos veículos, otimizar
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Isabela Carvalho Cardoso    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-cardoso-b23a57276/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isabelacardd)             |
-|  Scrum Master  | Ana Elisa Costa   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/ana-elisa-costa-a9a32122/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)](https://github.com/anaecosta) 
 | Developer Team  | Manassés Israel Tenório Marques |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manass%C3%A9s-ten%C3%B3rio-184182185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MANASSES2710)     |
 | Developer Team  | Tatiane de Sousa Pereira             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-sousa-5b564625b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tatipink)        |
-|  Developer Team  | Bruno Monti Peres   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/bruno-monti-peres) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)]( https://github.com/BrunoMontiPeres ) 
+|   Scrum Master   | Bruno Monti Peres   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/bruno-monti-peres) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)]( https://github.com/BrunoMontiPeres ) 
 
 
 # Objetivo do Projeto
@@ -87,7 +86,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 1
 - [x] Estruturar Git Hub;
 - [x] Estruturar Jira Software;
-- [ ] Estruturar Relatório 1;
+- [x] Estruturar Relatório 1;
 - [x] Estruturar Backlog do Produto;
 - [x] Estruturar Backlog das Sprints;
 - [x] Tratar base de dados em CSV;
@@ -97,27 +96,23 @@ Sprint | Previsão | Status| Histórico|
 - [x] Dashboard em BI; Produtividade Veículos;
 
 ## Sprint 2
-- [ ] Atualizar Git Hub;
-- [ ] Atualizar Jira Software;
-- [ ] Estruturar Relatório 2;
-- [ ] Aplicar restrições em PO;
-- [ ] Realizar análise de comparação de custos mensais e anuais;
-- [ ] Organizar banco de dados;
-- [ ] Dashboard em BI; Comparação de custos km/rota;
+- [x] Atualizar Git Hub;
+- [x] Atualizar Jira Software;
+- [x] Estruturar Relatório 2;
+- [x] Aplicar restrições em PO;
+- [x] Realizar análise de comparação de custos mensais e anuais;
+- [x] Organizar banco de dados;
+- [x] Dashboard em BI; Comparação de custos km/rota;
       
 
 ## Sprint 3
-- [ ] Atualizar Git Hub;
-- [ ] Atualizar Jira Software;
-- [ ] Estruturar Relatório 3;
-- [ ] Identificar erros no processo;
-- [ ] Comparar cenário ÓTIMO X REAL;
-- [ ] Disponibilizar possibilidades de melhoria de produtividade;
-- [ ] Realizar ajustes finais no dashboard;
+- [x] Atualizar Git Hub;
+- [x] Atualizar Jira Software;
+- [x] Estruturar Relatório 3;
+- [x] Identificar erros no processo;
+- [x] Comparar cenário ÓTIMO X REAL;
+- [x] Realizar ajustes finais no dashboard;
 - [ ] Realizar apresentação Feira de Soluções;
-- [ ] Dashboard em BI; Comparação de custos e ganho de produtividade; 
+- [x] Dashboard em BI; Comparação de custos 
 
-# Burndown
-
-x
 
