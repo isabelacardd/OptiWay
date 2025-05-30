@@ -74,6 +74,11 @@ Sprint | Previsão | Status| Histórico|
 ![Imagem 2](https://github.com/user-attachments/assets/65ffa6ec-a54d-4599-95e3-f9bbba369df2)
 ![Imagem 3](https://github.com/user-attachments/assets/6832b1ee-d49a-47ad-9a4b-a6fcccaccfb0)
 
+### Resultado da otmização
+
+![Imagem 4](https://github.com/user-attachments/assets/0ccd244c-3550-4b4c-b18a-5e97039f149c)
+
+
 
 
 # Backlog do Produto
