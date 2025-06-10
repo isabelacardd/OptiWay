@@ -82,6 +82,11 @@ Sprint | Previsão | Status| Histórico|
 |11    | Média      | *Como analista de melhoria contínua, quero analisar as possibilidades de melhorias que são encontradas e a empresa não pratica para identificar melhorias de processos.* | 3 | 96hrs  |
 |12    | Alta       | *Como analista de dados, quero finalizar o banco de dados relacional para apresentar um dashboard final com visualização de uma maximização de produtividade e lucro.* | 3 | 48hrs  |
 
+
+# MVP
+
+
+
 # Backlog das Sprints
 ## Sprint 1
 - [x] Estruturar Git Hub;
