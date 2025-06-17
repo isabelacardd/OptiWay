@@ -1,6 +1,7 @@
 # Aprendizado por Projeto Integrador (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
+# <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03090C&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Sejam+bem+vindos+à+empresa+Opti+Way.;%C3%89+um+prazer+t%C3%AA-los+aqui!🩶​)](https://git.io/typing-svg)
 ## LogoTipo
 > 
 ![Captura de tela 2025-03-10 210334](https://github.com/user-attachments/assets/613c4e67-d8f0-4d4f-9d03-3c88e521a4d3)
