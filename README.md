@@ -85,7 +85,12 @@ Sprint | Previsão | Status| Histórico|
 
 # MVP
 
+ # Dashboard Final
+![Imagem do WhatsApp de 2025-06-11 à(s) 22 53 15_def25314](https://github.com/user-attachments/assets/a192eb99-b23a-4ac2-a1b0-4fd7de892584)
 
+# Código Pyhton ( Custo Otimizado)
+
+![Imagem do WhatsApp de 2025-06-11 à(s) 22 53 16_c625be82](https://github.com/user-attachments/assets/f9682f12-ce2c-4efb-9f21-f24cf612e1cd)
 
 # Backlog das Sprints
 ## Sprint 1
